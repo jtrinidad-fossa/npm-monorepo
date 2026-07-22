@@ -1,0 +1,12 @@
+version: 3
+
+targets:
+  only:
+    - type: npm
+      path: packages/api-service
+    - type: npm
+      path: packages/cli-tool
+    - type: npm
+      path: packages/shared-utils
+    - type: npm
+      path: packages/web-client
