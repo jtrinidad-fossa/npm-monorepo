@@ -1,0 +1,15 @@
+{
+  "name": "@fossa-test/web-client",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample React web client workspace",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.23.1",
+    "axios": "^1.7.2",
+    "dayjs": "^1.11.11",
+    "redux": "^5.0.1"
+  }
+}
