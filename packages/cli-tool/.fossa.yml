@@ -1,7 +1,9 @@
 version: 3
-
 targets:
   only:
+    - type: npm
+      path: .
+      target: "@fossa-test/cli-tool"
     - type: npm
       path: .
       target: "npm-monorepo-fossa-test"

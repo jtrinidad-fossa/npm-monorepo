@@ -1,4 +1,7 @@
 node_modules/
 *.log
 .DS_Store
-fossa-scan.sh
+/fossa
+/diagnose
+/millhone
+/rendergraph
